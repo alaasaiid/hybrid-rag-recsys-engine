@@ -1,0 +1,10 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+onnx_models/
+mlruns/
+mlflow.db
+chroma_db/
+.pytest_cache/
+.env
